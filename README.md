@@ -12,11 +12,12 @@ License for this repository:
 ## Note on the data
 
 The original data is a meta-data rich compilation of the text of the Japanese law in XML format.
+However, the raw XML data is more than 3GB in size and is thus not included in this repository.
 This data repository is a text-only extraction of that data for use in language models.
 
-The original data is only around 100MB in size and can readily be downloaded from the url above.
-The script to extract the text data is included in this repository and gives some example of how to process
-the data.
+The original data is only around a few 100MBs in size and can readily be downloaded from the url above.
+A script to download and extract the text data is included in this repository and gives some example of how to process
+the original XML data.
 
 ## Files
 
