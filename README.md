@@ -1,13 +1,13 @@
 # odj-data-e-gov-lawsearch
 Japanese law text data
 
-Description: Japanese Law text data
-Source: https://elaws.e-gov.go.jp/download/
-Data granularity (time): n/a
-Data granularity (date range): Downloaded on 2023/09/25
+Description: Japanese Law text data  
+Source: https://elaws.e-gov.go.jp/download/  
+Data granularity (time): n/a  
+Data granularity (date range): Downloaded on 2023/09/25  
 Data granularity (geographic): National   
-Original license: n/a
-License for this repository:  
+Original license: n/a  
+License for this repository:    
 
 ## Note on the data
 
