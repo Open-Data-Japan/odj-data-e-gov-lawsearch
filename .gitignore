@@ -1,3 +1,6 @@
+data/all_xml.zip
+data/all_xml
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
